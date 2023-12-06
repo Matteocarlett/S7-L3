@@ -1,0 +1,10 @@
+h1 {
+    text-align: center;
+    color: rgb(233, 88, 62);
+    font-size: 80px;
+    margin: 36px;
+}
+
+.selected {
+    border: 4px solid rgb(4, 72, 17)
+}
